@@ -13,8 +13,3 @@ print("Where do you live?")
 location = # Add your location here
 print("I live in " + location + ".")
 
-
-
-
-
-
